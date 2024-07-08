@@ -1,0 +1,55 @@
+# Ignore Tableau specific files and directories
+
+# Tableau Workbook and Packaged Workbook files
+*.twb
+*.twbx
+
+# Tableau Datasource files
+*.tds
+
+# Tableau Extract files
+*.hyper
+*.tde
+
+# Tableau Log files
+*.log
+
+# Tableau Preferences file
+*.tps
+
+# Tableau Extract Refresh files
+*.tde.refresh
+
+# Tableau Backup files
+*.twb.backup
+
+# Tableau Temporary files
+*.tde.tmp
+
+# Tableau Service files
+*.tds.template
+*.tds.temp
+
+# Tableau Flow files
+*.tfl
+
+# Tableau Local Storage file
+*.localstorage
+
+# Tableau Data Server files
+*.tdsx
+
+# Tableau Project files
+*.twbx
+
+# Tableau Metadata files
+*.tms
+
+# Tableau License files
+*.lic
+
+# Tableau Workbook Lock files
+*.lock
+
+# Tableau Settings files
+*.preferences.tps
