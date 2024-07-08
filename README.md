@@ -25,9 +25,9 @@ The Sales Dashboard provides an overview of sales metrics and trends to analyze 
 
 ### Sales Dashboard 
 
-![image](https://github.com/vogulam2306/Sales-and-Customer-Analytics-Tableau-Dashboard/assets/59795274/a19c672b-6584-4cd4-b961-05d35ef70f05)
+![image](https://github.com/vogulam2306/Sales-and-Customer-Analytics-Tableau-Dashboard/assets/59795274/9938a0af-b0b6-41ba-ae75-f81ef3a5318b)
 
-View the interactive Sales Dashboard [here](link_to_sales_dashboard).
+View the interactive Sales Dashboard [here](https://public.tableau.com/views/SalesCustomerDashboards_17204609060510/CustomerDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Customer Dashboard
 
@@ -51,9 +51,9 @@ The Customer Dashboard provides insights into customer data, trends, and behavio
   - Include additional details like rank, number of orders, current sales, current profit, and last order date.
 
 ### Customer Dashboard
+![image](https://github.com/vogulam2306/Sales-and-Customer-Analytics-Tableau-Dashboard/assets/59795274/8ae11887-2029-49c8-a92c-52b3c9047d7f)
 
-
-View the interactive Customer Dashboard [here](link_to_customer_dashboard).
+View the interactive Customer Dashboard [here](https://public.tableau.com/views/SalesCustomerDashboards_17204609060510/CustomerDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Skills Developed
 
